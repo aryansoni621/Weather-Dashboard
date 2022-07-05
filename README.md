@@ -5,9 +5,9 @@ A weather dashboard that provides current and future weather forecasts. Utilizes
 
 ## Deployment
 
-### Version 2
 
-Demo: https://rosajen27.github.io/weather-dashboard/
+
+Demo: https://aryansoni621.github.io/Weather-Dashboard/
 
 ![weather dashboard demo](./Assets/new-screenshot.png)
 
